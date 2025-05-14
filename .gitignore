@@ -46,7 +46,7 @@ data/
 *.csv
 *.jpg
 *.png
-# (Be specific if some small metadata CSVs should be versioned)
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
