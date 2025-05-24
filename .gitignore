@@ -46,7 +46,7 @@ data/
 *.csv
 *.jpg
 *.png
-
+winner_data/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
