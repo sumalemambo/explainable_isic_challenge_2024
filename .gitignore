@@ -43,7 +43,7 @@ explainable_ai/
 
 # Data
 data/
-*.csv
+#*.csv
 *.jpg
 *.png
 winner_data/
