@@ -6,7 +6,7 @@
 - Constanza Alvarado
 - Ignacio Quintana
 
-### Prerequisitos
+### Prerrequisitos
 1. Tener [Conda](https://www.anaconda.com/download/success) instalado.
 2. Tener [Git](https://git-scm.com/downloads) instalado para versionamiento.
 
