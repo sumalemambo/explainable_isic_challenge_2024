@@ -1,4 +1,4 @@
-# (INF 473 USM) ISIC Challenge 2024 XAI
+# 🫦 (INF 473 USM) ISIC Challenge 2024 XAI
 
 ### Integrantes:
 - Gabriel Venegas
